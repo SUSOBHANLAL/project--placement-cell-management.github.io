@@ -8,7 +8,7 @@
 4. open the browser and go to `localhost:3000`
 5. If there is error with the database connection, then use your connection url in the .env file.
 6. Create a new user or use the following credentials to login
-    - username: `lakhabhayi@gmail.com`
+    - username: `susobhanlal2017@gmail.com`
     - password: `11111111`
 7. Add some new interviews and students through their respective forms.
 8. Assign students to interviews.
